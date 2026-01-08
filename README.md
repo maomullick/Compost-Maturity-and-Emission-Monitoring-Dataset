@@ -1,6 +1,3 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=maomullick&label=Profile%20views&color=0e75b6&style=flat" alt="maomullick" /> </p>
-
-
 # Compost Maturity and Emission Monitoring Dataset
 {AUGMENTED} Compost Maturity Dataset from Khandakar et al., 2025
 
